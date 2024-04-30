@@ -21,3 +21,4 @@ if(answer.operator === "Addition") {
 } else if(answer.operator === "Division") {
     console.log(answer.firstnumber / answer.secondnumber)
 } else {console.log ("please select valid operator") }
+console.log("THE END");
